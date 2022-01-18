@@ -1,0 +1,3 @@
+﻿  ASCIICypherApp.cpp
+C:\Users\Acer\source\repos\ASCIICypherApp\ASCIICypherApp\ASCIICypherApp.cpp(15,6): warning C4101: 'charsCount': unreferenced local variable
+  ASCIICypherApp.vcxproj -> C:\Users\Acer\source\repos\ASCIICypherApp\x64\Debug\ASCIICypherApp.exe
