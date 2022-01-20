@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01268561-fd95-442f-b0f9-f1f772189bec": {
+      "ProjectGuid": "01268561-fd95-442f-b0f9-f1f772189bec",
+      "DisplayName": "checkTheTriangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
