@@ -1,0 +1,2 @@
+﻿  BmiCalculator.cpp
+LINK : fatal error LNK1168: cannot open C:\Users\Acer\source\repos\BmiCalculator\x64\Debug\BmiCalculator.exe for writing
