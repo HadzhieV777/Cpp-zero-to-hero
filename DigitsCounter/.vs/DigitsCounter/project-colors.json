@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2552f824-a7d6-4087-af54-f9e7093de8b0": {
+      "ProjectGuid": "2552f824-a7d6-4087-af54-f9e7093de8b0",
+      "DisplayName": "DigitsCounter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
