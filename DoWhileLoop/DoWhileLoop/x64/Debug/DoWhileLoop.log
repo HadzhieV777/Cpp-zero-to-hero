@@ -1,0 +1,3 @@
+﻿  DoWhileLoop.cpp
+C:\Users\Acer\source\repos\DoWhileLoop\DoWhileLoop\DoWhileLoop.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DoWhileLoop.vcxproj -> C:\Users\Acer\source\repos\DoWhileLoop\x64\Debug\DoWhileLoop.exe
