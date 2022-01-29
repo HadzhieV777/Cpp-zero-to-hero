@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9fd00be-c837-433a-8dc0-9af2d820590d": {
+      "ProjectGuid": "b9fd00be-c837-433a-8dc0-9af2d820590d",
+      "DisplayName": "Factorial",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
