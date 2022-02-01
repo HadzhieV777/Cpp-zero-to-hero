@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6683122-16de-43fe-a553-8065c53e2054": {
+      "ProjectGuid": "d6683122-16de-43fe-a553-8065c53e2054",
+      "DisplayName": "DrawRectangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
