@@ -1,0 +1,3 @@
+﻿  FuncsWithArgs.cpp
+C:\Users\Acer\source\repos\FuncsWithArgs\FuncsWithArgs\FuncsWithArgs.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FuncsWithArgs.vcxproj -> C:\Users\Acer\source\repos\FuncsWithArgs\x64\Debug\FuncsWithArgs.exe
