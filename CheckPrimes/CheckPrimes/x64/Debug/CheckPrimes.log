@@ -1,0 +1,3 @@
+﻿  CheckPrimes.cpp
+C:\Users\Acer\source\repos\CheckPrimes\CheckPrimes\CheckPrimes.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CheckPrimes.vcxproj -> C:\Users\Acer\source\repos\CheckPrimes\x64\Debug\CheckPrimes.exe

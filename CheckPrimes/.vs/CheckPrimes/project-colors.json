@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90c78f07-e210-49e1-913a-85348ed0b32d": {
+      "ProjectGuid": "90c78f07-e210-49e1-913a-85348ed0b32d",
+      "DisplayName": "CheckPrimes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
