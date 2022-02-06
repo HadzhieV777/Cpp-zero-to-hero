@@ -1,0 +1,3 @@
+﻿  FuncOverloading.cpp
+C:\Users\Acer\source\repos\FuncOverloading\FuncOverloading\FuncOverloading.cpp(16,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  FuncOverloading.vcxproj -> C:\Users\Acer\source\repos\FuncOverloading\x64\Debug\FuncOverloading.exe
