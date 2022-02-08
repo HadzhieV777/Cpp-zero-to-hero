@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2d5a2f4-e78c-4ef0-9f2e-64e3657db1d2": {
+      "ProjectGuid": "d2d5a2f4-e78c-4ef0-9f2e-64e3657db1d2",
+      "DisplayName": "GenericFuncs",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
