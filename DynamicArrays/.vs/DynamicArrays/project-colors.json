@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2ab658e-a445-484c-a1bd-3ab4defa4691": {
+      "ProjectGuid": "b2ab658e-a445-484c-a1bd-3ab4defa4691",
+      "DisplayName": "DynamicArrays",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
